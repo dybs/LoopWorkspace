@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dybs/Loop.git
-	branch = pump-sim-timer-dev
+	branch = RKL-use
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dybs/LoopKit.git
