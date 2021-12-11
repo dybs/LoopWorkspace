@@ -5,22 +5,26 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dybs/LoopKit.git
-	branch = pump-sim-timer-dev
+	branch = pump-sim-timer-master
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.com/dybs/CGMBLEKit.git
+	branch = pump-sim-timer-master
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	url = https://github.com/dybs/dexcom-share-client-swift.git
+	branch = pump-sim-timer-master
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
-	url = https://github.com/LoopKit/G4ShareSpy.git
+	url = https://github.com/dybs/G4ShareSpy.git
+	branch = pump-sim-timer-master
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
+	url = https://github.com/dybs/rileylink_ios.git
+	branch = pump-sim-timer-master
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
