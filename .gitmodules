@@ -16,7 +16,7 @@
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/dybs/dexcom-share-client-swift.git
-	branch = pump-sim-timer-master
+	branch = share-trend-fix
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
 	url = https://github.com/dybs/G4ShareSpy.git
