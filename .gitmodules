@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dybs/Loop.git
-	branch = RKL-use
+	branch = RKL-use-iOS13
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dybs/LoopKit.git
