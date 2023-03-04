@@ -12,7 +12,8 @@
 	branch = loop-release/v2.x
 [submodule "SwiftCharts"]
 	path = SwiftCharts
-	url = https://github.com/ps2/SwiftCharts.git 
+	url = https://github.com/dybs/SwiftCharts.git 
+	branch = loop-release/v2.x
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
@@ -27,7 +28,8 @@
 	branch = loop-release/v2.x
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
-	url = https://github.com/LoopKit/Amplitude-iOS.git
+	url = https://github.com/dybs/Amplitude-iOS.git
+	branch = loop-release/v2.x
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
