@@ -9,21 +9,26 @@
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
+	branch = loop-release/v2.x
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/ps2/SwiftCharts.git 
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	branch = loop-release/v2.x
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
 	url = https://github.com/LoopKit/G4ShareSpy.git
+	branch = loop-release/v2.x
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/ps2/rileylink_ios.git
+	branch = loop-release/v2.x
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+	branch = loop-release/v2.x
