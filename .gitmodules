@@ -1,20 +1,20 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/dybs/Loop.git
-	branch = RKL-use-iOS15
+	branch = RKL-use-iOS15-Loop229
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/dybs/LoopKit.git
+	branch = loopKit-2.2.9
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
 [submodule "SwiftCharts"]
 	path = SwiftCharts
-	url = https://github.com/i-schuetz/SwiftCharts.git
+	url = https://github.com/ps2/SwiftCharts.git 
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/dybs/dexcom-share-client-swift.git
-	branch = share-trend-2.2.6
+	url = https://github.com/LoopKit/dexcom-share-client-swift.git
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
 	url = https://github.com/LoopKit/G4ShareSpy.git
